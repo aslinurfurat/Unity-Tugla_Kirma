@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sahneler/ana_sahne.unity
+    guid: 9177b184c7174824fa03903cbfe84603
+  - enabled: 1
+    path: Assets/Sahneler/Bolum1.unity
+    guid: 95b6c3bc6cc387b4aa7006f164d4b10c
+  - enabled: 1
+    path: Assets/Sahneler/Bolum2.unity
+    guid: d50546c2e4d63ae40916c4ca08f578da
+  - enabled: 1
+    path: Assets/Sahneler/Bolum3.unity
+    guid: b384f70d7c602d24cab822d308c78e33
+  - enabled: 1
+    path: Assets/Sahneler/OyunuKazandiniz.unity
+    guid: e3edf0dfd0e1bc84ea600b6ed9996254
+  - enabled: 1
+    path: Assets/Sahneler/OyunuKaybettiniz.unity
+    guid: 830342dec63d3d141b24df27a0486cee
